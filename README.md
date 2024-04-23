@@ -23,7 +23,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 ## Step 1: Add a test workflow
 
-_Welcome to "GitHub Actions: Continuous Integration"! :wave:_
+_Welcome to "GitHub Actions: Continuous Integration"! :rocket:_
 
 **What is _continuous integration_?**: [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) can help you stick to your team’s quality standards by running tests and reporting the results on GitHub. CI tools run builds and tests, triggered by commits. The quality results post back to GitHub in the pull request. The goal is fewer issues in `main` and faster feedback as you work.
 
